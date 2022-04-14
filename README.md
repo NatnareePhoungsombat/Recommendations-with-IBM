@@ -1,4 +1,4 @@
-# Project 2: Recommendations with IBM
+# Project 3: Recommendations with IBM
 Project Submission : Data Science at Udacity.
 
 ## Project Details.
