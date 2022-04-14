@@ -1,11 +1,14 @@
 # Project 2: Recommendations with IBM
 Project Submission : Data Science at Udacity.
 
-## Installations.
-
-
 ## Project Details.
-
+This project is recommendation skills to use on real data from the IBM Watson Studio platform between user and articles. Which shows the different mathods making recommendations that can be used for different situations as foloows:
+* Exploratory Data Analysis
+* Rank Based Recommendations
+* User-User Based Collaborative Filtering
+* Content Based Recommendations (EXTRA - NOT REQUIRED)
+* Matrix Factorization
+* Extras & Concluding
 
 ## File Description.
 The coding for this project can be completed using the Jupyter. Here's the file structure of the project:
@@ -21,9 +24,6 @@ The coding for this project can be completed using the Jupyter. Here's the file 
 - top_20.p                            # Check code.
 ```
 
-## How to Interract with Your Project.
-
-
-
 ## Copyright and license.
-Coldding learn by [Udacity](https://www.udacity.com/course/data-scientist-nanodegree--nd025)
+Coldding learn by [Udacity](https://www.udacity.com/course/data-scientist-nanodegree--nd025) Data Science Nanodegree program.
+
